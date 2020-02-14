@@ -1,0 +1,12 @@
+{
+  "id" : "8f35aefd-d6b4-430e-b4d8-154bad98ae61",
+  "request" : {
+    "url" : "/persons/1000",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "8f35aefd-d6b4-430e-b4d8-154bad98ae61"
+}

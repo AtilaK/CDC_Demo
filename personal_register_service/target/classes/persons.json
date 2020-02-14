@@ -1,0 +1,14 @@
+[
+  {"id": "1", "name": "Anakin", "surname": "Skywalker", "born": "3550", "died": "3600", "species": "Human", "gender": "male", "height": "198", "eyeColor": "black"},
+  {"id": "2", "name": "Rey", "surname": "Skywalker", "born": "3590", "died": "3620", "species": "Human", "gender": "female", "height": "170", "eyeColor": "brown"},
+  {"id": "3", "name": "Kylo", "surname": "Ren", "born": "3588", "died": "3608", "species": "Human", "gender": "male", "height": "189", "eyeColor": "brown"},
+  {"id": "4", "name": "Chewbacca", "surname": "", "born": "3400", "died": "3780", "species": "Wookiee", "gender": "male", "height": "230", "eyeColor": "blue"},
+  {"id": "5", "name": "Han", "surname": "Solo", "born": "3530", "died": "3612", "species": "Human", "gender": "male", "height": "180", "eyeColor": "brown"},
+  {"id": "6", "name": "Padmé Amidala", "surname": "Naberrie", "born": "3535", "died": "33565", "species": "Human", "gender": "female", "height": "165", "eyeColor": "brown"},
+  {"id": "7", "name": "Luke", "surname": "Skywalker", "born": "3580", "died": "3649", "species": "Human", "gender": "male", "height": "172", "eyeColor": "blue"},
+  {"id": "8", "name": "Obi-Wan", "surname": "Kenobi", "born": "3530", "died": "3589", "species": "Human", "gender": "male", "height": "182", "eyeColor": "gray-blue"},
+  {"id": "9", "name": "Leia", "surname": "Organa", "born": "3540", "died": "3589", "species": "Human", "gender": "female", "height": "150", "eyeColor": "brown"},
+  {"id": "10", "name": "Darth", "surname": "Sidious", "born": "3500", "died": "3599", "species": "Human", "gender": "male", "height": "178", "eyeColor": "blue"},
+  {"id": "11", "name": "Darth", "surname": "Maul", "born": "3530", "died": "3588", "species": "Zabrak", "gender": "male", "height": "194", "eyeColor": "red"},
+  {"id": "12", "name": "Darth", "surname": "Tyranus", "born": "3480", "died": "3538", "species": "Human", "gender": "male", "height": "196", "eyeColor": "brown"}
+]

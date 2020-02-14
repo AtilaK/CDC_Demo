@@ -1,0 +1,16 @@
+{
+  "id" : "d31290b2-d151-411f-baa4-ebd63c910ad8",
+  "request" : {
+    "url" : "/persons/1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"species\":\"Human\",\"surname\":\"Skywalker\",\"born\":\"3550\",\"name\":\"Anakin\",\"id\":1,\"died\":\"3600\"}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "d31290b2-d151-411f-baa4-ebd63c910ad8"
+}

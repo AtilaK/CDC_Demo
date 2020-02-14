@@ -1,0 +1,4 @@
+com\msg\group\BPIServiceApplication.class
+com\msg\group\Person.class
+com\msg\group\BPIRestController.class
+com\msg\group\BasicPersonInformation.class

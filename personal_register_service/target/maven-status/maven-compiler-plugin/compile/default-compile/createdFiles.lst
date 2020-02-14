@@ -1,0 +1,5 @@
+com\msg\group\PersonRestController.class
+com\msg\group\PersonService.class
+com\msg\group\PRServiceApplication.class
+com\msg\group\PersonNotFoundException.class
+com\msg\group\Person.class
